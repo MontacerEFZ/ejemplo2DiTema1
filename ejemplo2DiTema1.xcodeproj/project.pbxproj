@@ -15,6 +15,7 @@
 		1B0118702ACE9BFF007FD3EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B01186E2ACE9BFF007FD3EF /* LaunchScreen.storyboard */; };
 		1B01187B2ACE9BFF007FD3EF /* ejemplo2DiTema1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B01187A2ACE9BFF007FD3EF /* ejemplo2DiTema1Tests.swift */; };
 		1B0118862ACE9BFF007FD3EF /* ejemplo2DiTema1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0118852ACE9BFF007FD3EF /* ejemplo2DiTema1UITests.swift */; };
+		1B0118972ACEA061007FD3EF /* Ventana2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B0118962ACEA061007FD3EF /* Ventana2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1B0118812ACE9BFF007FD3EF /* ejemplo2DiTema1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ejemplo2DiTema1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B0118852ACE9BFF007FD3EF /* ejemplo2DiTema1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ejemplo2DiTema1UITests.swift; sourceTree = "<group>"; };
 		1B0118872ACE9BFF007FD3EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B0118962ACEA061007FD3EF /* Ventana2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ventana2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		1B0118572ACE9BFD007FD3EF = {
 			isa = PBXGroup;
 			children = (
+				1B0118962ACEA061007FD3EF /* Ventana2ViewController.swift */,
 				1B0118622ACE9BFD007FD3EF /* ejemplo2DiTema1 */,
 				1B0118792ACE9BFF007FD3EF /* ejemplo2DiTema1Tests */,
 				1B0118842ACE9BFF007FD3EF /* ejemplo2DiTema1UITests */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B0118682ACE9BFD007FD3EF /* ViewController.swift in Sources */,
+				1B0118972ACEA061007FD3EF /* Ventana2ViewController.swift in Sources */,
 				1B0118642ACE9BFD007FD3EF /* AppDelegate.swift in Sources */,
 				1B0118662ACE9BFD007FD3EF /* SceneDelegate.swift in Sources */,
 			);
