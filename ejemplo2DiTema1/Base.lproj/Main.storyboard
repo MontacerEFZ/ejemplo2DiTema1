@@ -75,7 +75,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="images" width="225" height="225"/>
+        <image name="images" width="128" height="128"/>
         <image name="square.and.arrow.up" catalog="system" width="115" height="128"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
